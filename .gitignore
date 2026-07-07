@@ -1,0 +1,26 @@
+# .gitignore for Visual Studio projects
+# See https://www.toptal.com/developers/gitignore/api/visualstudio
+# Copied from https://www.toptal.com/developers/gitignore/api/visualstudio
+
+## Build
+[Bb]in/
+[Bb]in[[\/]]
+[Oo]bj/
+[Oo]bj[[\/]]
+## Testing
+[Tt]est[Rr]esult*
+[Bb]uild[Ll]og.*
+*.dcd
+## Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+## Build results
+[Dd]ebug/
+[Dd]ebug[Public]/
+[Rr]elease/
+[Rr]elease[Public]/
+[x64]/[D
+...
